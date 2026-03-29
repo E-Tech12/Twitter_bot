@@ -11,8 +11,8 @@ import pyperclip
 from datetime import datetime, timezone
 
 # ==================TELEGRAM CONFIG ==================
-BOT_TOKEN = "8781321070:AAH_XYQNtm9ZTYaV1_QfsMcneQBVFebuGZw"
-CHAT_ID = "8519082585"
+BOT_TOKEN = "8791698863:AAGBWMvP7yOvvDHLf-bEQGu_RlvhmdFupAw"
+CHAT_ID = "7786883340"
 
 # ================== CONFIG ==================
 SEARCH_URL = "https://x.com/search?q=(\"pay dex\" OR \"cto\" OR \"cto this\" OR \"dex\") lang:en -filter:replies&f=live"
